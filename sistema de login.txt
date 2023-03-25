@@ -1,3 +1,4 @@
 seu email
 seu nome
 sua senha
+sua idade 
